@@ -9,11 +9,11 @@ This document gives an overview of HBXToken
 The HBX `HBXToken.sol` is ERC20-compatible and has the following additional characteristics:
 
 1. An initial amount of 1,000,000 HBX tokens supply.
-2. An ability to burn tokens by users to reduce total number of token supply to proportionally increase each token holder’s percentage in the overall token amount.
+2. An ability to burn tokens by users to reduce total number of token supply.
 
 At the completion of the final token sale, HashBX plans to do the following:
 
-- Burn all unallocated tokens
+- Burn all unallocated tokens to proportionally increase each token holder’s percentage in the overall token amount.
 
 ### Implementation
 
