@@ -1,21 +1,21 @@
+![HashBX](images/logo.png)
+
 # HashBX Token
 
-This document gives an overview of HBXToken
+## Overview
 
-# Overview
-
-## HashBX Token
+### HashBX Token
 
 The HBX `HBXToken.sol` is ERC20-compatible and has the following additional characteristics:
 
 1. An initial amount of 1,000,000 HBX tokens supply.
 2. An ability to burn tokens by users to reduce total number of token supply.
 
-At the completion of the final token sale, HashBX plans to do the following:
+At the completion of token sale, HashBX plans to do the following:
 
 - Burn all unallocated tokens to proportionally increase each token holder’s percentage in the overall token amount.
 
-### Implementation
+#### Implementation
 
 We use OpenZeppelin code for `SafeMath`, `Ownable`, `Burnable` and `StandardToken` logic.
 
@@ -34,6 +34,5 @@ The token contract includes the following constants:
 ```
 
 The above constants indicate a maximum supply of 1 million tokens.
-
 
 Copyright 2017 HashBX Global Company Limited. All Rights Reserved.
