@@ -45,6 +45,6 @@ The token contract includes the following constants:
     Mintable         = False
 ```
 
-The above constants indicate a maximum supply of 1 million tokens.
+The above constants indicate a maximum supply of 1,000 million tokens.
 
 Copyright © 2017-2018 - HashBX Global Company Limited. All Rights Reserved.
