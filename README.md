@@ -30,7 +30,8 @@ The token contract includes the following constants:
     name             = "HashBX";
     symbol           = "HBX";
     decimals         = 18;
-    INITIAL_SUPPLY   = 1 million HBX
+    INITIAL_SUPPLY   = 1,000 million HBX;
+    Mintable         = False
 ```
 
 The above constants indicate a maximum supply of 1 million tokens.
