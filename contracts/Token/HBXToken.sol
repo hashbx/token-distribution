@@ -16,7 +16,7 @@ contract HBXToken is StandardToken, BurnableToken, Ownable {
   string  public constant name = "HashBX";
   string  public constant symbol = "HBX";
   uint8   public constant decimals = 18;
-  uint256 public constant INITIAL_SUPPLY = 1000000 * (10 ** uint256(decimals));
+  uint256 public constant INITIAL_SUPPLY = 1000000000 * (10 ** uint256(decimals));
 
   // Properties
   address public creatorAddress;
