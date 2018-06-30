@@ -4,11 +4,22 @@
 
 ## Overview
 
+
+### Etherscan.io
+```
+https://etherscan.io/token/0x6fe355c62c6faf6946ce888ffaba9fd12355ae27
+```
+
+### Token Address 
+```
+0x6fe355c62c6faf6946ce888ffaba9fd12355ae27
+```
+
 ### HashBX Token
 
 The HBX token `HBXToken.sol` is ERC-20 standard compatible and has the following additional characteristics:
 
-1. An initial amount of 1,000,000 HBX tokens supply.
+1. An initial amount of 1,000,000,000 HBX tokens supply.
 2. An ability to burn tokens by users to reduce total number of token supply.
 
 At the completion of token sale, HashBX plans to do the following:
